@@ -1,25 +1,11 @@
-# README
+This is a Tic Tac Toe game that I was able to build from (https://www.cookieshq.co.uk/posts/tic-tac-toe-game-in-rails-5-with-action-cable) to try out some new action cable features.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+It is fairly simple to build and deploy using heroku.
 
-Things you may want to cover:
+Ruby version 2.4.1
 
-* Ruby version
+System dependencies Redis Gem Action Cable
 
-* System dependencies
+Deployment instructions. Follow heroku steps found here.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# TicTacToe
+...
